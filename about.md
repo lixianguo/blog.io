@@ -9,7 +9,7 @@ header-img: "img/green.jpg"
 <center>![](https://i.imgur.com/K0MNfKM.jpg)
 
 
-## **<center>嘿！这是夏歌的Home！！！** ##
+ **<center>嘿！这是夏歌的Home！！！**
 
 
 ### <center>**简介：** ###
