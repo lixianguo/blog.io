@@ -5,14 +5,15 @@ description: "夏歌的理想国"
 header-img: "img/green.jpg"
 
 ---
+<center>
 
-<center>![](https://i.imgur.com/K0MNfKM.jpg)
+![](https://i.imgur.com/K0MNfKM.jpg)
 
 
 **<center>嘿！这是夏歌的Home！！！**
 
 
-### <center>简介： ###
+**简介：**
 
 **我是夏歌，一个淹没在人海中的小人物，一个沉浸在法律中的小孩童，一个活在自己理想国中的独唱者。**
 
